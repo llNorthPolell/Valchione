@@ -1,0 +1,70 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     848 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Lenovo\Documents\Valchione\valchione-client\Valchione-Client_Alpha-1.0.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Lenovo\Documents\Valchione\valchione-client\Valchione-Client_Alpha-1.0.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Lenovo\Documents\Valchione\valchione-client\Valchione-Client_Alpha-1.0.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Lenovo\Documents\Valchione\valchione-client\Valchione-Client_Alpha-1.0.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Lenovo\Documents\Valchione\valchione-client\Valchione-Client_Alpha-1.0.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Lenovo\Documents\Valchione\valchione-client\Valchione-Client_Alpha-1.0.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Lenovo\Documents\Valchione\valchione-client\Valchione-Client_Alpha-1.0.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Lenovo\Documents\Valchione\valchione-client\Valchione-Client_Alpha-1.0.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.056 seconds
+Platform assembly: C:\Users\Lenovo\Documents\Valchione\valchione-client\Valchione-Client_Alpha-1.0.0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Lenovo\Documents\Valchione\valchione-client\Valchione-Client_Alpha-1.0.0_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 50Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.900689 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2a14 -> priority: 1 
+Login Successful!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.298046 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 548.
+Total: 0.759127 ms (FindLiveObjects: 0.067242 ms CreateObjectMapping: 0.027604 ms MarkObjects: 0.645169 ms  DeleteObjects: 0.017695 ms)
+
+Card Data Found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.907414 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 602.
+Total: 0.560232 ms (FindLiveObjects: 0.082813 ms CreateObjectMapping: 0.030789 ms MarkObjects: 0.425394 ms  DeleteObjects: 0.019464 ms)
+
+Mission Data Found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Now Loading...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MissionDto
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Map Loaded!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Next PhaseBATTLE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+

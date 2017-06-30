@@ -1,0 +1,49 @@
+#accountBar{
+	width:100%;
+	background-color: #000000;
+	border-style: none;
+}
+
+
+#helloMsg{
+	color: #FFFFFF;
+	padding-right: 10%;
+	font-size: medium;
+}
+
+#gameLogo{
+	color: #FFFFFF;
+	text-align: center;	
+}
+
+#headerbar{
+	background-color: #222222;
+	
+	margin: 0 auto;
+	border-style: none;
+	
+}
+
+#headernav{
+	background-color: #882222;
+	border-color: #882222;
+	padding-left: 0;
+	padding-right: 0;
+	color: #FFFFFF;
+	width: 80%;
+	opacity: 0.85;
+	margin: 0 auto;
+	z-index: 10;
+	position: relative;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; 
+}
+
+
+.nav>li>a:hover {
+	background-color: #CC2222 !important;
+	color: #FF0000;
+}

@@ -1,0 +1,118 @@
+/* GENERAL */
+html, body{
+	height : 100%;
+	width : 100%;
+	margin: 0 auto;
+	font-family: "arial", serif !important;
+	font-size: 16px;
+	
+}
+
+body{
+	background-color: #222222;
+	background-image: url("../img/Background.png");
+}
+
+h1{
+	color: #FFFFFF;
+}
+
+h2.pageheading {
+	margin-left: 35%;
+	font-family: "arial", serif;
+	font-size: 25px;
+	color: #FFFFFF;
+}
+
+
+.container{
+	width: 100%;
+}
+
+
+.btn{
+	border-color: #CC2222;
+	background-color: #222222;
+	color: #CC2222;
+}
+
+#background {
+	width: 100%;
+	height: 100%;
+	
+	margin-bottom: 5%;
+	position: fixed;
+	text-align: center;
+	font-size: 400px;
+	
+	color: rgba(0,0,0,0);
+
+	z-index: -10;
+}
+
+
+form{
+	background-color: rgba(43, 43, 43, 0.75);
+	color: #FFFFFF;
+	
+	margin: 0 auto;
+}
+
+
+.errormsg{
+	color: #CC2222;
+	text-shadow: 15px 15px 25px #DD2211;	
+}
+
+/* CAROUSEL */
+.carousel {
+	position: relative;
+	margin-top: 0px;
+	
+	background-color: transparent;
+	
+	border-color: #CC2222;
+	border-style: solid;
+	
+	margin: 0 auto;
+	width: 80%;
+	opacity: 0.95;
+}
+
+.carousel-inner > .item > img{
+	width: 100%;
+	margin: 0 auto;
+	max-height: 30em;
+}
+
+.carousel-indicators li {
+	background-color: #999999 !important;
+}
+
+.carousel-indicators .active {
+	background-color: #CC2222 !important;
+}
+
+.carousel-caption {
+	top: 1%;
+	bottom: auto;
+	left: 1%;
+	background: rgba(0, 0, 0, 0.5);
+	text-align: left;
+	padding: 1%;
+	width: 40%;
+	font-weight: bold;
+	font-size: medium;
+}
+
+
+/* NEWS FEED */
+#newsfeed{
+	margin-top: 5%;
+	background-color: rgba(64, 64, 64, 0.75);
+	color: #FFFFFF;
+	width: 80%;
+	margin: 0 auto;
+	
+	
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.northpole.valchione</groupId>
+  <artifactId>valchione</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>valchione-web</module>
+  	<module>valchione-data</module>
+    <module>valchione-core</module>
+    <module>valchione-core-api</module>
+    <module>valchione-core-impl</module>
+    <module>valchione-gamesvc</module>
+    <module>valchione-util</module>
+  </modules>
+  
+</project>

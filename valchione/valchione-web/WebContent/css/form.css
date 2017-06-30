@@ -1,0 +1,104 @@
+form{
+	border-style: solid;
+	border-color: #888888;
+	border-width: thin;
+	display: inline-block;
+	margin-bottom: 7% !important;
+	background-color: rgba(43,43,43,0.85); 
+
+	min-width: 33%;
+	
+	padding: 2% 2%; 
+	
+	font-family: "arial", serif;
+	text-align: left;
+	
+}
+
+form:hover{
+	border-color: #CC2222;	
+	-webkit-box-shadow: 0px 0px 15px 0px #CC2222;	
+	-moz-box-shadow:    0px 0px 15px 0px #CC2222;	
+	box-shadow:         0px 0px 15px 0px #CC2222;	
+}
+
+form a{
+	font-family: "arial", serif;
+	color: #CC2222 !important;
+}
+
+form a:hover{
+	font-family: "arial", serif;
+	color: #FFFFFF !important;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="number"]{
+	background-color: #444444 !important;
+	color: #CC2222 !important;
+	border-color: #CC2222 !important;	
+}
+
+form .submit-btn{
+	float: right;
+}
+
+span.input-group-addon{
+	font-size: 1.2em;
+	color: #CC2222;
+	background-color: #424242;
+	border-color: #DD2211;	
+}
+
+ :placeholder-shown {
+ 	color: #CC2222;
+ }
+ 
+input:hover, input:focus,
+.radiogroup:hover,
+.checkbox input[type="checkbox"]:hover + label::before,
+.checkbox input[type="checkbox"]:hover + label::after,
+.radio input[type="radio"]:hover + label::before,
+.radio input[type="radio"]:hover + label::after
+{
+	color: #DD2211;
+	border-color: #DD2211;	
+	-webkit-box-shadow: 0px 0px 15px 0px #DD2211;	
+	-moz-box-shadow:    0px 0px 15px 0px #DD2211;	
+	box-shadow:         0px 0px 15px 0px #DD2211;	
+}
+
+
+.checkbox input[type="checkbox"] +label::before,
+.checkbox input[type="checkbox"] + label::after
+{
+	color: #DD2211;
+	border-color: #DD2211;
+	background-color:#444444;
+}
+
+.radio input[type="radio"]+ label::before,
+.radio input[type="radio"]+ label::after{
+	background-color:#444444;
+}
+
+.radio input[type="radio"]:checked + label::before,
+.radio input[type="radio"]:checked + label::after
+{
+	background-color:#CC2222;
+	-webkit-box-shadow: 0px 0px 15px 0px #CC2222;	
+	-moz-box-shadow:    0px 0px 15px 0px #CC2222;	
+	box-shadow:         0px 0px 15px 0px #CC2222;
+}
+
+.radiogroup{
+	border-bottom-left-radius: 9px;
+	border-bottom-right-radius: 9px;
+	border-color: #CC2222;
+	border-style: solid;
+	border-width: thin;
+	padding: 2%;
+	width: 100%;
+}
